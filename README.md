@@ -78,11 +78,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenzJ&hide_border=true&layout=compact" align="center" /></div>
-<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LaurenzJ&hide=stars&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenzJ&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
