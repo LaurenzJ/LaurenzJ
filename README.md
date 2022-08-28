@@ -79,6 +79,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenzJ&hide_border=true&layout=compact" align="center" /></div>
+[![LaurenzJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenzj)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ----
