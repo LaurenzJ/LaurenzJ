@@ -6,7 +6,7 @@
 ### <div align="center">I'm Laurent, a hobbyist developer and student from Luxembourg 🇱🇺</div>  
   
 
-- 🔭 I’m currently working on [Zonex Studios](https://zonexstudios.com/)  
+- 🔭 I’m currently working on [Jempi](https://github.com/LaurenzJ/jempi)  
   
 
 - 🌱 I’m currently learning VueJS and try to improve working with databases  
